@@ -3,7 +3,7 @@ locale: ru
 edit:
   repo: github.com/MBlanshe67/simple-recipes-cookbook/edit
   base: /src
-  label: "Rediger denne siden"
+  label: "Отредактировать страницу"
 input: ./src
 output: ./docs
 branding:
