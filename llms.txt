@@ -88,7 +88,7 @@
 - [Peanøttkonfekt](https://mere.eirik.re/dessert/peanottkonfekt.md): 45 min | Enkel
 - [Sjokoladakake med kaffeglasur](https://mere.eirik.re/dessert/kake-sjokolade-og-kaffe.md): 60 min | Middels
 
-## Blog
+## Блог
 
-- [Blog](https://mere.eirik.re/blog/)
+- [Блог](https://mere.eirik.re/blog/)
 - [Hvordan bidra](https://mere.eirik.re/blog/2022-5-24-hvordan-bidra.md): Om du ønsker å legge inn en oppskrift selv for så å lage en innlemmelsesforespørsel (pull request, PR), kan du gjøre det ved å følge disse stegene.
