@@ -1,0 +1,73 @@
+# Hjemmelaga safarikjeks
+
+![](/static/hjemmelaga-safarikjeks/20250720_203651.jpg)
+
+||| :timer_clock: Tid
+90 min
+||| :knife_fork_plate: Porsjoner
+12 kjeks
+||| :cook: Vanskelighetsgrad
+Middels
+|||
+
+## Ingredienser
+
+- 100 g brunt sukker
+- 100 g smør i terninger
+- 1 egg
+- 150 g mel
+- 50 g havregryn
+- 1 ts bakepulver
+- 1 kokesjokoladeplate
+
+## Steg
+
+1. Bland sammen sukker, smør, egg, mel, havregryn og bakepulver.
+2. Hakk opp sjokolade og bland i.
+3. Stekes på 200°C i 10 min.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Hjemmelaga safarikjeks",
+  "image": "/static/hjemmelaga-safarikjeks/hjemmelaga-safarikjeks.webp",
+  "author": {
+    "@type": "Person",
+    "name": "Kaspara og Kristina",
+    "url": "_No response_"
+  },
+  "datePublished": "2025-07-21",
+  "description": "90 min | Middels",
+  "prepTime": "",
+  "cookTime": "",
+  "totalTime": "90 min",
+  "recipeYield": "12 kjeks",
+  "recipeCategory": "bakst",
+  "recipeCuisine": "norsk",
+  "keywords": "egg, sjokolade, sukker, hvetemel, havregryn, smør",
+  "recipeIngredient": [
+    "100 g brunt sukker",
+    "100 g smør i terninger",
+    "1 egg",
+    "150 g mel",
+    "50 g havregryn",
+    "1 ts bakepulver",
+    "1 kokesjokoladeplate"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bland sammen sukker, smør, egg, mel, havregryn og bakepulver."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Hakk opp sjokolade og bland i."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stekes på 200°C i 10 min."
+    }
+  ]
+}
+</script>

@@ -1,0 +1,94 @@
+﻿#  | Dolby mat til alle
+
+> Dolby mat til alle
+
+- [Om Mere?](https://mere.eirik.re/index.md): Om Mere?
+
+## Enkel servering
+
+- [Avokadokrem](https://mere.eirik.re/enkel-servering/avokadokrem.md): 15 min | Enkel
+- [Bondelapper](https://mere.eirik.re/enkel-servering/bondelapper.md): 35 min | Enkel
+- [Maisstuing](https://mere.eirik.re/enkel-servering/mais-stuing.md): 15 min | Enkel
+- [Mangosalsa](https://mere.eirik.re/enkel-servering/mangosalsa.md): 15 min | Enkel
+- [Ovnsbakte poteter](https://mere.eirik.re/enkel-servering/bakte-poteter.md): 30 min | Middels
+- [Rødvinsgløgg](https://mere.eirik.re/enkel-servering/rodvinsglogg.md): 25 min | Enkel
+- [Tomat- og mozzarellasalat](https://mere.eirik.re/enkel-servering/tomat-salat.md): 5 min | Enkel
+
+## Bakst
+
+- [Appelsinboller](https://mere.eirik.re/bakst/appelsinboller.md): 120 min | Middels
+- [Bananbrød](https://mere.eirik.re/bakst/bananbrod.md): 45 min | Enkel
+- [Bananpannekaker](https://mere.eirik.re/bakst/bananpannekaker.md): 20 min | Enkel
+- [Eltefritt brød](https://mere.eirik.re/bakst/eltefritt-brod.md): 20 min | Enkel
+- [Hjemmelaga safarikjeks](https://mere.eirik.re/bakst/hjemmelaga-safarikjeks.md): 90 min | Middels
+- [Lussekatter](https://mere.eirik.re/bakst/lussekatter.md): 100 | Middels
+- [Tante Wallys hveteboller](https://mere.eirik.re/bakst/tante-wallys-hveteboller.md): 120 min | Enkel
+
+## Hovedrett
+
+- [Asiatiske reketacos med bang bang-saus og syrlig pico de gallo](https://mere.eirik.re/hovedrett/asiatiske-reketacos-med-bang-bang-saus-og-syrlig-pico-de-gallo.md): 40 | Enkel
+- [Cacio e pepe](https://mere.eirik.re/hovedrett/pasta-cacio-e-pepe.md): 20 min | Middels
+- [Cajunkrydret baconspaghetti](https://mere.eirik.re/hovedrett/cajunkrydret-baconspaghetti.md): 15 | Enkel
+- [Char siu-inspirert kjøttdeig](https://mere.eirik.re/hovedrett/char-siu-inspirert-kjottdeig.md): 20 min | Enkel
+- [Couscoussalat med halloumi](https://mere.eirik.re/hovedrett/couscous-salat-med-halloumi.md): 30 min | Enkel
+- [Dhal chaat](https://mere.eirik.re/hovedrett/dhal-chaat.md): 45 | Enkel
+- [Gresk-inspirert laks med sitronbakte poteter og tzatziki](https://mere.eirik.re/hovedrett/gresk-inspirert-laks-med-sitronbakte-poteter-og-tzatziki.md): 50 | Enkel
+- [Halloumi og bulgursalat](https://mere.eirik.re/hovedrett/halloumi-og-bulgursalat.md): 35 | Enkel
+- [Japansk taco med krydret kjøttdeig og sprø kålsalat](https://mere.eirik.re/hovedrett/japansk-taco-med-krydret-kjottdeig-og-spro-kalsalat.md): 30 | Enkel
+- [Kremet bacon-tortelloni med squash og frisk basilikum](https://mere.eirik.re/hovedrett/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum.md): 30 | Enkel
+- [Kremet basilikumkylling med kokte poteter og fyldig tranebærsalat](https://mere.eirik.re/hovedrett/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat.md): 40 | Enkel
+- [Kremet prosciuttopasta](https://mere.eirik.re/hovedrett/kremet-prosciuttopasta.md): 25 min | Enkel
+- [Krydret kikertkarri med spinatris og koriander](https://mere.eirik.re/hovedrett/krydret-kikertkarri-med-spinatris-og-koriander.md): 30 | Enkel
+- [Kylling teryaki-bowl](https://mere.eirik.re/hovedrett/kylling-teryaki-bowl.md): 20 min | Enkel
+- [Kyllingpasta alla cacciatore med kalamataoliven og finrevet ost](https://mere.eirik.re/hovedrett/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost.md): 50 | Enkel
+- [Kyllingsalat](https://mere.eirik.re/hovedrett/kyllingsalat.md): 20 min | Enkel
+- [Kyllingwok med egg og nudler](https://mere.eirik.re/hovedrett/kyllingwok-egg-nudler.md): 20 min | Enkel
+- [Laks med mangosalsa](https://mere.eirik.re/hovedrett/laks-med-mangosalsa.md): 40 min | Enkel
+- [Lasagne](https://mere.eirik.re/hovedrett/lasagne.md): 80 | Middels
+- [Løksuppe](https://mere.eirik.re/hovedrett/loksuppe.md): 20 min | Enkel
+- [Malaysisk kyllinglaksa med hvitløksris og karristekt pak choi](https://mere.eirik.re/hovedrett/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi.md): 40 | Enkel
+- [Meksikansk fisketaco med syrlig kålsalat og krydret cajunmajones](https://mere.eirik.re/hovedrett/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones.md): 40 | Enkel
+- [Middelhavsinspirert kylling](https://mere.eirik.re/hovedrett/middelhavsinspirert-kylling.md): 25 min | Enkel
+- [Middelhavsinspirert rekegryte med hvitløksris og fersk basilikum](https://mere.eirik.re/hovedrett/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum.md): 40 | Enkel
+- [Minestronesuppe](https://mere.eirik.re/hovedrett/minestronesuppe.md): 45 min | Enkel
+- [Nakkekotelett med ovnsbakte grønnsaker og fetaost](https://mere.eirik.re/hovedrett/nakkekotelett.md): 40 min | Enkel
+- [Paella med byggryn](https://mere.eirik.re/hovedrett/risotto-paella.md): 35 min | Middels
+- [Pasta à la Vodka](https://mere.eirik.re/hovedrett/pasta-a-la-vodka.md): 65 min | Middels
+- [Pizzadeig](https://mere.eirik.re/hovedrett/pizza-deig.md): 40 min | Vanskelig
+- [Pizzatopping: pære og spekeskinke](https://mere.eirik.re/hovedrett/pizzatopping-paere-skinke.md): 5 min | Enkel
+- [Rask kylling i kremete gressløksaus med potetmos og pæresalat](https://mere.eirik.re/hovedrett/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat.md): 30 | Enkel
+- [Rask kyllingbowl med tabbouleh og tranebær](https://mere.eirik.re/hovedrett/rask-kyllingbowl-med-tabbouleh-og-tranebaer.md): 30 | Enkel
+- [Rask vietnamesisk-glasert ørret med pak choi-salat og srirachamajones](https://mere.eirik.re/hovedrett/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones.md): 40 | Enkel
+- [Reker i sursøt saus med nudler og knasende peanøtter](https://mere.eirik.re/hovedrett/reker-i-sursot-saus-med-nudler-og-knasende-peanotter.md): 30 | Enkel
+- [Rekewok](https://mere.eirik.re/hovedrett/rekewok.md): 20 min | Enkel
+- [Rødvinsstekt kylling med grov potetmos og sprø kålsalat](https://mere.eirik.re/hovedrett/rodvinsstekt-kylling-med-grov-potetmos-og-spro-kalsalat.md): 40 | Enkel
+- [Rustikke hakkebiffer med kremet soppsaus og saftig eplesalat](https://mere.eirik.re/hovedrett/rustikke-hakkebiffer-med-kremet-soppsaus-og-saftig-eplesalat.md): 40 | Enkel
+- [Sjampinjong- og portobellopasta](https://mere.eirik.re/hovedrett/sjampinjong-og-portobellopasta.md): 30 min | Enkel
+- [Soltørket tomat-rigatoni med frisk ruccola og sprø pangrattato](https://mere.eirik.re/hovedrett/soltorket-tomat-rigatoni-med-frisk-ruccola-og-spro-pangrattato.md): 30 | Enkel
+- [Sopptortelloni og mais i fløtesaus med finrevet ost og basilikum](https://mere.eirik.re/hovedrett/sopptortelloni-og-mais-i-flotesaus-med-finrevet-ost-og-basilikum.md): 30 | Enkel
+- [Sørøst-asiatisk kjøttdeigbowl med hvitløkskokt ris og stekte grønnsaker](https://mere.eirik.re/hovedrett/sorost-asiatisk-kjottdeigbowl-med-hvitlokskokt-ris-og-stekte-gronnsaker.md): 40 | Enkel
+- [Spaghetti Puttanesca](https://mere.eirik.re/hovedrett/spaghetti-puttanesca.md): 50 | Enkel
+- [Spicy pasta med grønnkål](https://mere.eirik.re/hovedrett/pasta-med-gronnkal.md): 20 min | Enkel
+- [Stekt kylling i kremet gressløksaus med kokte poteter og rødkålsalat](https://mere.eirik.re/hovedrett/stekt-kylling-i-kremet-gressloksaus-med-kokte-poteter-og-rodkalsalat.md): 40 | Enkel
+- [Stekt sei i gressløksaus](https://mere.eirik.re/hovedrett/stekt-sei-i-gressloksaus.md): 50 | Enkel
+- [Teriyaki-glasert hyse med ovnsbakt brokkoli og sprøstekt løk](https://mere.eirik.re/hovedrett/teriyaki-glasert-hyse-med-ovnsbakt-brokkoli-og-sprostekt-lok.md): 40 | Enkel
+- [Tomat- og paprikasuppe](https://mere.eirik.re/hovedrett/tomat-paprika-suppe.md): 35 min | Enkel
+- [Tomatrisotto med safran](https://mere.eirik.re/hovedrett/tomatrisotto-med-safran.md): 35 min | Middels
+- [Vegetar-lasagne](https://mere.eirik.re/hovedrett/vegetar-lasagne.md): 65 min | Enkel
+- [Vegetarisk pulled beans-gyros med grønn salat og urtedressing](https://mere.eirik.re/hovedrett/vegetarisk-pulled-beans-gyros-med-gronn-salat-og-urtedressing.md): 40 | Enkel
+- [Vegetarprotein i 'kung pao'-saus med stekt brokkoli og revet gulrot](https://mere.eirik.re/hovedrett/vegetarprotein-i-kung-pao-saus-med-stekt-brokkoli-og-revet-gulrot.md): 40 | Enkel
+- [Wok med Tofu](https://mere.eirik.re/hovedrett/wok-med-tofu.md): 35 min | Enkel
+
+## Dessert
+
+- [Dronning Maud-fromasj](https://mere.eirik.re/dessert/dronning-maud-fromasj.md): 80 min | Middels
+- [Eplepai](https://mere.eirik.re/dessert/eplepai.md): | Enkel
+- [Hello, World!](https://mere.eirik.re/dessert/hello-world.md): Hello, World in Chef
+- [Oreokake](https://mere.eirik.re/dessert/oreokake.md): 60 min | Middels
+- [Peanøttkonfekt](https://mere.eirik.re/dessert/peanottkonfekt.md): 45 min | Enkel
+- [Sjokoladakake med kaffeglasur](https://mere.eirik.re/dessert/kake-sjokolade-og-kaffe.md): 60 min | Middels
+
+## Blog
+
+- [Blog](https://mere.eirik.re/blog/)
+- [Hvordan bidra](https://mere.eirik.re/blog/2022-5-24-hvordan-bidra.md): Om du ønsker å legge inn en oppskrift selv for så å lage en innlemmelsesforespørsel (pull request, PR), kan du gjøre det ved å følge disse stegene.
