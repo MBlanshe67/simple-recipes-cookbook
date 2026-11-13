@@ -7,20 +7,20 @@ edit:
 input: ./src
 output: ./docs
 branding:
-  title: Mere?
+  title: Рецепты
 meta:
-  title: " | Dolby mat til alle"
+  title: " | Рецепты для всех"
 links:
-  - text: Emner
+  - text: Теги
     link: ./tags
     icon: tag
-  - text: Kategorier
+  - text: Категории
     link: ./categories
     icon: container
-  - text: Blogg
+  - text: Блог
     link: ./blog
     icon: book
-  - text: Foreslå en oppskrift
+  - text: Предложить рецепт
     link: https://github.com/MBlanshe67/simple-recipes-cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D
     icon: git-pull-request
 footer:
