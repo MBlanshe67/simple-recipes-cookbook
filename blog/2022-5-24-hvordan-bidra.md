@@ -1,17 +1,16 @@
-# Hvordan bidra
+# Как внести свой вклад?
 
-Om du ønsker å legge inn en oppskrift selv for så å lage en innlemmelsesforespørsel
-(pull request, PR), kan du gjøre det ved å følge disse stegene.
+Если вы хотите добавить рецепт самостоятельно, вы можете сделать это, выполнив следующие действия.
 
-## Fork
+## Вилка
 
 Lag en [fork](https://github.com/engeir/simple-recipes-cookbook/fork) eller gafling av
 lageret.
 
-## Ny oppskrift
+## Новый рецепт
 
-En ny oppskrift kan legges til ved å opprette en ny fil i en eksisterende eller en ny
-mappe.
+Новый рецепт может быть добавлено путем создания нового файла в существующий или новый
+папка.
 
 Nye filer _må_ ha filendelsen `.md`, og filnavnet må være uten mellomrom (bruk heller
 bindestrek, `-`) og kun med små bokstaver, også kjent som
