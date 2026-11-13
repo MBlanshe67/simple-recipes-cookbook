@@ -1,8 +1,8 @@
 ﻿#  | Рецепты для всех
 
-> Dolby mat til alle
+> Рецепты для всех
 
-- [Om Mere?](https://mere.eirik.re/index.md): Om Mere?
+- [Готовы?](https://mere.eirik.re/index.md): Готовы?
 
 ## Enkel servering
 
